@@ -1,0 +1,19 @@
+<?xml-stylesheet type="text/xsl" href="http://beyondliangcai.github.com/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://beyondliangcai.github.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://beyondliangcai.github.com/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://beyondliangcai.github.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
